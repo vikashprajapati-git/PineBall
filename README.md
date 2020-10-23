@@ -1,2 +1,2 @@
 # PineBall
-This basic game will only run in PC or Laptop, in between these files a file named PineB@ll.exe is the setup file, open that file for playing.
+This basic game will only run in PC or Laptop, you can download this setup/.exe file and install it into your PC/laptop
